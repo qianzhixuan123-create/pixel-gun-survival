@@ -1,0 +1,1 @@
+{"name":"pixel-survival-v035-web","version":"0.3.5","private":true,"scripts":{"start":"node server.js"},"engines":{"node":">=18"}}
